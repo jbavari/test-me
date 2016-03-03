@@ -27,3 +27,6 @@ Builds the app for OS X, Linux, and Windows, using [electron-packager](https://g
 ## License
 
 MIT © [<%= name %>](<%= website %>)
+
+
+This is great
